@@ -1,2 +1,2 @@
 # MNNITKart
-An e-commerce website for the college students to buy/sell items of their need
+The project aims at creating a platform for the students of the college to sell the things that they no longer need to those who need them. For example, a second year IT student can sell his drafter to a fresher.
